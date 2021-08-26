@@ -25,3 +25,10 @@ Bejalar kelas Belajar Dasar Git dengan GitHub. (Progress 39%)
 * Kolaborasi dengan Tim : Mengerti bagaimana cara berkolaborasi dengan tim lain pada repository yang sama seperti melakukan forking, squashing changes, dan code reviews.
 - Studi Kasus Kolaborasi dengan Tim : Meningkatkan pengetahuan dalam berkolaborasi dengan tim seperti membuat repository baru, menyalin repository, dan studi kasus menangani pull request pada sebuah repository aktif di GitHub.
 - GitHub sebagai Portofolio : Mengerti penggunaan GitHub sebagai portofolio dengan latihan membuat readme yang dapat dimanfaatkan sebagai portofolio dalam berkarier.
+
+**20 Juni 2021**  
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
+* Belajar konsep OOP (Object-Oriented Programming) untuk mempermudah pengembangan sebuah program.
+* Belajar class-class yang sering digunakan dalam bahasa Java seperti generic, exception, input output, date time, dan casting. 
+* Berlatih dengan membuat program untuk menghitung suhu air, vokal konsonan, dan bangun datar. 
+* Mengerjakan ujian akhir untuk menilai kemahiran diri.
