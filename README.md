@@ -17,7 +17,7 @@ Bejalar kelas Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Prog
 * Dokumentasi Pemrograman dan Pengembangan Aplikasi Perangkat Lunak: Belajar teori pengarsipan perangkat lunak, pembuatan gaya penulisan kode, penulisan komentar pada kode, dan pembuatan dokumentasi teknis aplikasi. Implementasi keterampilan melalui studi kasus pengarsipan sebuah perangkat lunak, penyesuaian gaya penulisan kode agar sesuai standar, menambahkan komentar pada kode, dan latihan pembuatan dokumentasi teknis aplikasi. Belajar sikap kerja dalam mengomunikasikan dokumentasi kepada stakeholders (pemegang kepentingan) perusahaan. 
 
 **26 Agustus 2021**  
-Bejalar kelas Belajar Dasar Git dengan GitHub. (Progress 39%)
+Bejalar kelas Belajar Dasar Git dengan GitHub. Progress 73%
 * Git dan GitHub : Mengerti apa itu Git dan GitHub serta manfaatnya dalam mengelola data atau kode.
 * Dasar Git : Mengerti dasar-dasar pengelolaan data atau kode dengan Git, seperti membuat repository, membuat berkas, git commit, dan git checkout.
 * Studi Kasus Pengalaman Belajar : Meningkatkan pengalaman belajar mengenai dasar-dasar Git melalui sebuah studi kasus.
